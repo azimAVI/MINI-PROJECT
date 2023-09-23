@@ -1,2 +1,2 @@
-# MINI-PROJECT-1
+# MINI-PROJECT
 Drumkit using ES6 JavaScript
